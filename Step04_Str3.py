@@ -1,6 +1,7 @@
 # yaml 형식의 문자열 다루기
 
 # yaml 문자열을 다룰 때는 외부 모듈을 pip로 설치를 해서 import 해야한다.
+# .\venv\Scripts\activate     pip install pyyaml
 
 import yaml
 
@@ -21,7 +22,7 @@ body:
 result =  yaml.safe_load(info)
 print(result)
 
-result2 = yaml.safe_dump(result)
+result2 = yaml.safe_dump(result, allow_unicode=True, sort_keys=False)
 print(result2)
 
 print("끝")
