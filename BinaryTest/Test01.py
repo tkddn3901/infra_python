@@ -1,4 +1,4 @@
-# BinaryText/test01.py
+# BinaryTest/test01.py
 
 # python에서 2진수 다루기
 

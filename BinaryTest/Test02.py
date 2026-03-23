@@ -1,4 +1,4 @@
-# BinaryText/test02.py
+# BinaryTest/test02.py
 
 a = 0b1100
 b = 0b1010

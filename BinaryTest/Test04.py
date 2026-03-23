@@ -1,4 +1,4 @@
-# BinaryText/test04.py
+# BinaryTest/test04.py
 
 ip_addr = input("ip 주소 입력 : ")
 

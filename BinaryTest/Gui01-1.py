@@ -1,4 +1,4 @@
-# Gui01.py
+# BinaryTest/Gui01-1.py
 
 # ui Toolkit을 사용할 수 있는 interface 객체 import 하기
 import tkinter as tk
