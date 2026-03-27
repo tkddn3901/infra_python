@@ -1,0 +1,11 @@
+# config.txt 파일
+
+############
+num=1
+name=viper
+############
+SELINUX=disabled text=aaa aaa=bbb
+#################
+addr=seoul
+##########################
+
